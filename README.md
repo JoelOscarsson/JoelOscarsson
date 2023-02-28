@@ -2,7 +2,7 @@
 
 * Dedicated team player currently pursuing AI and Machine learning studies at IT Högskolan in Gothenburg.
 
-* Passionate about mathematics, programming and statistics and enjoy board games and fitness during leisure time.
+* Likes mathematics, programming and statistics and enjoy board games and fitness during leisure time.
 
 ## :briefcase: Github Portfolio:
 | Repositories                   | Description                        |
