@@ -33,4 +33,4 @@
 
 - [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/joel-oscarsson-2593048a
+[linkedin]: https://www.linkedin.com/in/JoelOscarsson
