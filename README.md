@@ -8,7 +8,7 @@
 | Repositories                   | Description                        |
 | ------------------------------ | ---------------------------------- |
 |[Statistical Methods][sg]       |  |Graphs & data exploring "Iris" dataset	|
-|[Covid-19][c]| Visualizing Covid-19 data                    |
+|[Covid-19][c]| Investigating Covid-19 data                    |
 |[Olympics Dashboard][pr]        | Analysis and deployment of dashboard on 120 years of Olympic history|                                 
 |[Machine Learning][mla] | Pichu or Pikachu classifier with k-nearest neighbor           |
 |[Geometry Shapes Class][gs]     | Implemented OOP to create geometric objects|
