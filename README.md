@@ -8,7 +8,7 @@
 
 | Repo                           | Description                                                   |
 | ------------------------------ | --------------------------------------------------------------|
-| [Recommendation System][kag]   | Work in progress, RS for Movies                               |
+| [Recommendation System][kag]   | Work in progress, 27 million ratings, 58,000 movies           |
 | [Statistical Methods][cd]      | "Iris" Dataset, analysis, Hypothesis Testing, regression      |
 | [Data analysis][ml]            | Investigating Covid-19 data                                   |
 | [Data analysis][pe]            | "120 Years Olympics" analysis with Dashboard                  |
