@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-* Dedicated team player currently pursuing AI and Machine learning studies at IT Högskolan in Gothenburg, Sweden.
+* Currently pursuing AI and Machine learning studies at IT Högskolan in Gothenburg, Sweden.
 
 * Likes mathematics, programming and statistics and enjoy board games and fitness during leisure time.
 
