@@ -12,7 +12,7 @@
 | [Statistical Methods][cd]      | "Iris" Dataset, analysis, Hypothesis Testing, regression      |
 | [Data analysis][ml]            | Investigating Covid-19 data                                   |
 | [Data analysis][pe]            | "120 Years Olympics" analysis with Dashboard                  |
-| [Machine Learning][gc]         | Pichu or Pikachu classifier with k-nearest neighbor           |
+| [Python][gc]         | Pichu or Pikachu classifier with k-nearest neighbor           |
 | [Geometry Shapes Class][aoc]   | Implemented OOP to create geometric objects                   |
 
 
