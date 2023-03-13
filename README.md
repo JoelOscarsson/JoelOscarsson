@@ -36,6 +36,6 @@
 ---
 ## Contact me :iphone:
 
-- [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
+- (assets/linkedIn-icon.png): LinkedIn][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/JoelOscarsson
