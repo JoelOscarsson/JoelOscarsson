@@ -15,8 +15,7 @@
 | [Python][gc]         | Pichu or Pikachu classifier with k-nearest neighbor           |
 | [Geometry Shapes Class][aoc]   | Implemented OOP to create geometric objects                   |
 
-
-[kag]: https://github.com/JoelOscarsson/Machine-Learning/tree/main/Projects
+[kag]: https://github.com/JoelOscarsson/Machine-Learning/blob/main/Projects/Recommender-System.ipynb
 [cd]: https://github.com/JoelOscarsson/Statistics/blob/main/Projekt.ipynb
 [ml]: https://github.com/JoelOscarsson/Databehandling-JoelOscarsson/blob/main/Laboration-1/Labb_1.ipynb
 [pe]: https://github.com/JoelOscarsson/GroupProjectOS-Databehandling
