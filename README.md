@@ -8,6 +8,7 @@
 
 | Repo                           | Description                                                   |
 | ------------------------------ | --------------------------------------------------------------|
+| [Disease Prediction][aob]      | WPI                                                           |
 | [Recommendation System][kag]   | Work in progress, 27 million ratings, 58,000 movies           |
 | [Statistical Methods][cd]      | "Iris" Dataset, analysis, Hypothesis Testing, regression      |
 | [Data analysis][ml]            | Investigating Covid-19 data                                   |
@@ -15,13 +16,14 @@
 | [Python][gc]         | Pichu or Pikachu classifier with k-nearest neighbor           |
 | [Geometry Shapes Class][aoc]   | Implemented OOP to create geometric objects                   |
 
+
 [kag]: https://github.com/JoelOscarsson/Machine-Learning/blob/main/Projects/Recommender-System.ipynb
 [cd]: https://github.com/JoelOscarsson/Statistics/blob/main/Projekt.ipynb
 [ml]: https://github.com/JoelOscarsson/Databehandling-JoelOscarsson/blob/main/Laboration-1/Labb_1.ipynb
 [pe]: https://github.com/JoelOscarsson/GroupProjectOS-Databehandling
 [gc]: https://github.com/JoelOscarsson/PythonSchool/blob/main/Labb-2/Labb2.ipynb
 [aoc]: https://github.com/JoelOscarsson/PythonSchool/tree/main/Labb-3/Shape
-
+[aob]: https://github.com/JoelOscarsson/Machine-Learning/blob/main/Projects/Disease-Prediction.ipynb
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
