@@ -27,18 +27,18 @@
 [aoc]: https://github.com/JoelOscarsson/PythonSchool/tree/main/Labb-3/Shape
 [aob]: https://github.com/JoelOscarsson/Machine-Learning/blob/main/Projects/Disease-Prediction.ipynb
 
+## Working with:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoelOscarsson&show_icons=true&count_private=true&include_all_commits=true&hide=issues&text_color=718096&bg_color=ffffff00&hide_border=true&hide_title=true" /> 
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelOscarsson&text_color=718096&bg_color=ffffff00&hide_border=true&hide_title=true&langs_count=3" />
-</a>
+<h3 align="center"> <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/ai.svg" alt="js" style="max-width: 100%;">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/datascience.svg" alt="js" style="max-width: 100%;">
 
+
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="js" style="max-width: 100%;">
 
 ---
-## Contact me :iphone:
+<h3 align="center">📫 Contact me:</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/JoelOscarsson">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="max-width: 100%;">
+  </a>
 
-[linkedin]
-
-[linkedin]: https://www.linkedin.com/in/JoelOscarsson
