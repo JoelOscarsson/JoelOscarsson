@@ -10,7 +10,7 @@
 
 | Repo                           | Description                                                   |
 | ------------------------------ | --------------------------------------------------------------|
-| [Disease Prediction][aob]      | Ml models used for prediction, eda and explanatory analysis   |
+| [Disease Prediction][aob]      | ML models used for prediction, eda and explanatory analysis   |
 | [Recommendation System][kag]   | Item-Based collab system 27 million ratings, 58,000 movies    |
 | [Statistical Methods][cd]      | "Iris" Dataset, analysis, Hypothesis Testing, regression      |
 | [Data analysis][ml]            | Investigating Covid-19 data                                   |
