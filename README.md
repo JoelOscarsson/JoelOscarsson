@@ -10,6 +10,8 @@
 
 | Repo                           | Description                                                   |
 | ------------------------------ | --------------------------------------------------------------|
+| [LLM Summarizer][aol]          | Implemented Online/Offline LLM summarizer of articles scraped...|
+|                                | ... from different sources. Output on dashboard and discord   |
 | [Disease Prediction][aob]      | Eda and explanatory analysis. ML models used for prediction   |
 | [Recommendation System][kag]   | Item-Based collab system 27 million ratings, 58,000 movies    |
 | [Statistical Methods][cd]      | "Iris" Dataset, analysis, Hypothesis Testing, regression      |
@@ -26,6 +28,7 @@
 [gc]: https://github.com/JoelOscarsson/PythonSchool/blob/main/Labb-2/Labb2.ipynb
 [aoc]: https://github.com/JoelOscarsson/PythonSchool/tree/main/Labb-3/Shape
 [aob]: https://github.com/JoelOscarsson/Machine-Learning/blob/main/Projects/Disease-Prediction.ipynb
+[aol]: https://github.com/JoelOscarsson/LLM-SummarEase-AI
 
 ## Working with:
 
