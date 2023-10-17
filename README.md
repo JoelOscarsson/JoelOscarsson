@@ -2,8 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=JoelOscarsson&color=0ca4a5)
 
-* Currently pursuing AI and Machine learning studies at IT Högskolan in Gothenburg, Sweden.
-
+* Software Developer in AI/Machine Learning/Computer Vision based in Gothenburg, Sweden.
 * Likes mathematics, programming and statistics and enjoy board games and fitness during leisure time.
 
 ## :briefcase: Github Portfolio:
