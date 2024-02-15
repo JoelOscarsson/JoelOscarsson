@@ -7,27 +7,34 @@
 
 ## :briefcase: Github Portfolio:
 
-| Repo                           | Description                                                   |
-| ------------------------------ | --------------------------------------------------------------|
-| [LLM Summarizer][aol]          | Implemented Online/Offline LLM summarizer of articles scraped...|
-|                                | ... from different sources. Output on dashboard and discord   |
-| [Disease Prediction][aob]      | Eda and explanatory analysis. ML models used for prediction   |
-| [Recommendation System][kag]   | Item-Based collab system 27 million ratings, 58,000 movies    |
-| [Statistical Methods][cd]      | "Iris" Dataset, analysis, Hypothesis Testing, regression      |
-| [Data analysis][ml]            | Investigating Covid-19 data                                   |
-| [Data analysis][pe]            | "120 Years Olympics" analysis with Dashboard                  |
-| [Python][gc]         | Pichu or Pikachu classifier with k-nearest neighbor                     |
-| [Geometry Shapes Class][aoc]   | Implemented OOP to create geometric objects                   |
+
+| Repo                             | Description                                                                                     |
+| -------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [NLP Sentiment Analysis][eee]    | Sentiment analysis on words using Natural Language Processing and constructing custom GRU network to determine emotions different emotions from text|
+| [Algae Classification][aaa]      | Detect algae blooms in water using Deep learning networks (DNN)                                       |
+| [Flower Classification][bxs]           | Constructing a Convulutional Deep Learning Network to classify flowers                          |
+| [Recommendation System][kag]     | Item-Based collab system with 27 million ratings, 58,000 movies. Eda and explanatory analysis. ML models used for prediction. |
+| [LLM Summarizer][aol]            | Implemented Online/Offline LLM summarizer of articles scraped from different sources. Output on dashboard and discord. |
+| [Disease Prediction][aob]        | Eda and explanatory analysis. ML models used for prediction.                                    |
+| [Statistical Methods][cd]        | "Iris" Dataset, analysis, Hypothesis Testing, regression.                                       |
+| [Data analysis (Covid-19)][ml]   | Investigating Covid-19 data.                                                                    |
+| [Data analysis (Olympics)][pe]   | "120 Years Olympics" analysis with Dashboard.                                                   |
+| [Python Classifier][gc]          | Pichu or Pikachu classifier with k-nearest neighbor.                                            |
+| [Geometry Shapes Class][aoc]     | Implemented OOP to create geometric objects.                                                    |
 
 
+[eee]: https://github.com/JoelOscarsson/rnn-assignment/blob/main/rnn-assignment.ipynb
+[aaa]: https://github.com/JoelOscarsson/dnn-project/blob/main/eda.ipynb
+[bxs]: https://github.com/JoelOscarsson/dl-assignment/blob/main/classification.ipynb
+[aol]: https://github.com/JoelOscarsson/LLM-SummarEase-AI
 [kag]: https://github.com/JoelOscarsson/Machine-Learning/blob/main/Projects/Recommender-System.ipynb
+[aob]: https://github.com/JoelOscarsson/Machine-Learning/blob/main/Projects/Disease-Prediction.ipynb
 [cd]: https://github.com/JoelOscarsson/Statistics/blob/main/Projekt.ipynb
 [ml]: https://github.com/JoelOscarsson/Databehandling-JoelOscarsson/blob/main/Laboration-1/Labb_1.ipynb
 [pe]: https://github.com/JoelOscarsson/GroupProjectOS-Databehandling
 [gc]: https://github.com/JoelOscarsson/PythonSchool/blob/main/Labb-2/Labb2.ipynb
 [aoc]: https://github.com/JoelOscarsson/PythonSchool/tree/main/Labb-3/Shape
-[aob]: https://github.com/JoelOscarsson/Machine-Learning/blob/main/Projects/Disease-Prediction.ipynb
-[aol]: https://github.com/JoelOscarsson/LLM-SummarEase-AI
+
 
 ## Working with:
 
