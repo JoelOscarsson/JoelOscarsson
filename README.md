@@ -10,15 +10,15 @@
 
 | Repo                             | Description                                                                                     |
 | -------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [NLP Sentiment Analysis][eee]    | Sentiment analysis on words using Natural Language Processing and constructing custom GRU network to determine emotions different emotions from text|
-| [Algae Classification][aaa]      | Detect algae blooms in water using Deep learning networks (DNN)                                       |
-| [Flower Classification][bxs]           | Constructing a Convulutional Deep Learning Network to classify flowers                          |
-| [Recommendation System][kag]     | Item-Based collab system with 27 million ratings, 58,000 movies. Eda and explanatory analysis. ML models used for prediction. |
-| [LLM Summarizer][aol]            | Implemented Online/Offline LLM summarizer of articles scraped from different sources. Output on dashboard and discord. |
-| [Disease Prediction][aob]        | Eda and explanatory analysis. ML models used for prediction.                                    |
-| [Statistical Methods][cd]        | "Iris" Dataset, analysis, Hypothesis Testing, regression.                                       |
-| [Data analysis (Covid-19)][ml]   | Investigating Covid-19 data.                                                                    |
-| [Data analysis (Olympics)][pe]   | "120 Years Olympics" analysis with Dashboard.                                                   |
+| [NLP Sentiment Analysis][eee]    | Explored sentiment analysis techniques using Natural Language Processing, experimenting with a custom-designed Gated Recurrent Unit (GRU) neural network to interpret emotional nuances in text.|
+| [Algae Classification][aaa]      | Utilized Deep Learning Neural Networks (DNN) to identify algae blooms in water bodies, contributing to environmental monitoring efforts through the application of computer vision principles.                                  |
+| [Flower Classification][bxs]           | Developed a Convolutional Deep Learning Network to classify flowers based on visual characteristics, aiming to contribute modestly to automated botanical identification processes.                   |
+| [Recommendation System][kag]     | Implemented collaborative filtering techniques within an Item-Based recommendation system, integrating Exploratory Data Analysis (EDA) and explanatory analysis. Additionally, I built and deployed a machine learning model for prediction, aiming to contribute towards enhancing user experience through personalized recommendations.|
+| [LLM Summarizer][aol]            | Leveraging chatgpt prompting for doing technical summaries of news articles web scraped from various news sites where the goal was to make them be explained in more Technical Depth or in a Non technical way, these are sent to Discord as notifications and displayed on a dashboard |
+| [Disease Prediction][aob]        | Executed Exploratory Data Analysis (EDA) on medical datasets, leveraging machine learning algorithms to engage in predictive modeling for disease detection.                                 |
+| [Statistical Methods][cd]        | Worked with "Iris" Dataset for statistical analysis, encompassing hypothesis testing and regression modeling, to extract insights from data patterns.                                    |
+| [Data analysis (Covid-19)][ml]   | Investigated historical Olympic data using interactive dashboards to visualize trends and athlete achievements, presenting the findings with a balanced view on the significance of the analysis.                |
+| [Data analysis (Olympics)][pe]   |  Investigated historical Olympic data creating interactive dashboards to visualize trends and athlete achievements, presenting the findings.                                                   |
 | [Python Classifier][gc]          | Pichu or Pikachu classifier with k-nearest neighbor.                                            |
 | [Geometry Shapes Class][aoc]     | Implemented OOP to create geometric objects.                                                    |
 
