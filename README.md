@@ -17,7 +17,7 @@
 | [LLM Summarizer][aol]            | Leveraging chatgpt prompting for doing technical summaries of news articles web scraped from various news sites where the goal was to make them be explained in more Technical Depth or in a Non technical way, these are sent to Discord automatic via Airflow as notifications and displayed on a dashboard |
 | [Disease Prediction][aob]        | Executed Exploratory Data Analysis (EDA) on medical datasets, leveraging machine learning algorithms to engage in predictive modeling for disease detection.                                 |
 | [Statistical Methods][cd]        | Worked with "Iris" Dataset for statistical analysis, encompassing hypothesis testing and regression modeling, to extract insights from data patterns.                                    |
-| [Data analysis (Covid-19)][ml]   | Investigated historical Olympic data using interactive dashboards to visualize trends and athlete achievements, presenting the findings with a balanced view on the significance of the analysis.                |
+| [Data analysis (Covid-19)][ml]   | Investigated and created dashboard of Covid-19 Outbreak                |
 | [Data analysis (Olympics)][pe]   |  Investigated historical Olympic data creating interactive dashboards to visualize trends and athlete achievements, presenting the findings.                                                   |
 | [Python Classifier][gc]          | Pichu or Pikachu classifier with k-nearest neighbor.                                            |
 | [Geometry Shapes Class][aoc]     | Implemented OOP to create geometric objects.                                                    |
