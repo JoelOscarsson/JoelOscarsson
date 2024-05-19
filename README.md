@@ -19,7 +19,6 @@
 | [Statistical Methods][cd]        | Worked with "Iris" Dataset for statistical analysis, encompassing hypothesis testing and regression modeling, to extract insights from data patterns.                                    |
 | [Data analysis (Covid-19)][ml]   | Investigated and created dashboard of Covid-19 Outbreak                |
 | [Data analysis (Olympics)][pe]   |  Investigated historical Olympic data creating interactive dashboards to visualize trends and athlete achievements, presenting the findings.                                                   |
-| [Python Classifier][gc]          | Pichu or Pikachu classifier with k-nearest neighbor.                                            |
 | [Geometry Shapes Class][aoc]     | Implemented OOP to create geometric objects.                                                    |
 
 
@@ -32,7 +31,6 @@
 [cd]: https://github.com/JoelOscarsson/Statistics/blob/main/Projekt.ipynb
 [ml]: https://github.com/JoelOscarsson/Databehandling-JoelOscarsson/blob/main/Laboration-1/Labb_1.ipynb
 [pe]: https://github.com/JoelOscarsson/GroupProjectOS-Databehandling
-[gc]: https://github.com/JoelOscarsson/PythonSchool/blob/main/Labb-2/Labb2.ipynb
 [aoc]: https://github.com/JoelOscarsson/PythonSchool/tree/main/Labb-3/Shape
 
 
