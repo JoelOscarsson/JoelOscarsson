@@ -11,15 +11,15 @@
 | Repo                             | Description                                                                                     |
 | -------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [NLP Sentiment Analysis][eee]    | Explored sentiment analysis techniques using Natural Language Processing, experimenting with a custom-designed Gated Recurrent Unit (GRU) neural network to interpret emotional nuances in text.|
-| [Algae Classification][aaa]      | Utilized Deep Learning Neural Networks (DNN) to identify algae blooms in water bodies, contributing to environmental monitoring efforts through the application of computer vision principles.                                  |
-| [Flower Classification][bxs]           | Developed a Convolutional Deep Learning Network to classify flowers based on visual characteristics, aiming to contribute modestly to automated botanical identification processes.                   |
-| [Recommendation System][kag]     | Implemented collaborative filtering techniques within an Item-Based recommendation system, integrating Exploratory Data Analysis (EDA) and explanatory analysis. Additionally, I built and deployed a machine learning model for prediction, aiming to contribute towards enhancing user experience through personalized recommendations.|
-| [LLM Summarizer][aol]            | Leveraging chatgpt prompting for doing technical summaries of news articles web scraped from various news sites where the goal was to make them be explained in more Technical Depth or in a Non technical way, these are sent to Discord automatic via Airflow as notifications and displayed on a dashboard |
-| [Disease Prediction][aob]        | Executed Exploratory Data Analysis (EDA) on medical datasets, leveraging machine learning algorithms to engage in predictive modeling for disease detection.                                 |
-| [Statistical Methods][cd]        | Worked with "Iris" Dataset for statistical analysis, encompassing hypothesis testing and regression modeling, to extract insights from data patterns.                                    |
-| [Data analysis (Covid-19)][ml]   | Investigated and created dashboard of Covid-19 Outbreak                |
-| [Data analysis (Olympics)][pe]   |  Investigated historical Olympic data creating interactive dashboards to visualize trends and athlete achievements, presenting the findings.                                                   |
-| [Geometry Shapes Class][aoc]     | Implemented OOP to create geometric objects.                                                    |
+| [Algae Classification][aaa]      | Utilized Deep Learning Neural Networks (DNN) to identify algae blooms in water bodies.                                  |
+| [Flower Classification][bxs]           | Developed a Convolutional Neutral Netowrk (CNN) to classify flowers based on visual characteristics, with the goal to identify different flower types.                   |
+| [Recommendation System][kag]     | Collaborative filtering techniques within an Item-Based recommendation system, integrating Exploratory Data Analysis (EDA) and explanatory analysis. Additionally, I built and deployed a machine learning model for prediction.|
+| [LLM Summarizer][aol]            | Leveraging chatgpt prompting for doing technical summaries of news articles web scraped from various news sites where the goal was to make them be explained in more Technical Depth or in a Non technical way, these are sent to Discordbot via Airflow triggers as notifications and text. Then the aricles are displayed on a dashboard |
+| [Disease Prediction][aob]        | Exploratory Data Analysis (EDA) on medical dataset, using machine learning algorithms to engage in predictive modeling for disease detection for possible heart disease                              |
+| [Statistical Methods][cd]        | "Iris" Dataset for statistical analysis, encompassing hypothesis testing and regression modeling, to extract insights from data patterns.                                    |
+| [Data analysis (Covid-19)][ml]   | Investigated and created dashboard of Covid-19 Outbreak (Group project, my part was both doing the plots and parts of the dashboard/design. Which was deployed in Heroku               |
+| [Data analysis (Olympics)][pe]   |  EDA and visualization of historical Olympic data creating interactive dashboards to visualize trends, athlete achievements and so on                                                  |
+| [Geometry Shapes Class][aoc]     | Implemented OOP to create geometric objects classes.                                                    |
 
 
 [eee]: https://github.com/JoelOscarsson/rnn-assignment/blob/main/rnn-assignment.ipynb
