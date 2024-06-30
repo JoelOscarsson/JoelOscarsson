@@ -11,7 +11,7 @@
 | Repo                             | Description                                                                                     |
 | -------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [NLP Sentiment Analysis][eee]    | Explored sentiment analysis techniques using Natural Language Processing, experimenting with a custom-designed Gated Recurrent Unit (GRU) neural network to interpret emotional nuances in text.|
-| [Algae Classification][aaa]      | Utilized Deep Learning Neural Networks (DNN) to identify algae blooms in water bodies.                                  |
+| [Algae Classification][aaa]      | Built neural network to identify algae blooms in water bodies using LSTM/RNNs/CNNs                                 |
 | [Flower Classification][bxs]           | Developed a Convolutional Neutral Netowrk (CNN) to classify flowers based on visual characteristics, with the goal to identify different flower types.                   |
 | [Recommendation System][kag]     | Collaborative filtering techniques within an Item-Based recommendation system, integrating Exploratory Data Analysis (EDA) and explanatory analysis. Additionally, I built and deployed a machine learning model for prediction.|
 | [LLM Summarizer][aol]            | Leveraging chatgpt prompting for doing technical summaries of news articles web scraped from various news sites where the goal was to make them be explained in more Technical Depth or in a Non technical way, these are sent to Discordbot via Airflow triggers as notifications and text. Then the aricles are displayed on a dashboard |
