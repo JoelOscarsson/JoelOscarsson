@@ -10,15 +10,15 @@
 
 | Repo                             | Description                                                                                     |
 | -------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [NLP Sentiment Analysis][eee]    | Sentiment analysis prediction using Natural Language Processing, experimenting with a custom-designed Gated Recurrent Unit (GRU) neural network to interpret different feelings conveyed in text.|
-| [Algae Classification][aaa]      | Neural network to identify algae blooms in water bodies using LSTM/RNNs/CNNs                                 |
-| [Flower Classification][bxs]           | Developed a Convolutional Neutral Netowrk (CNN) to classify flowers based on visual characteristics, with the goal to identify different flower types.                   |
-| [Recommendation System][kag]     | Collaborative filtering techniques within an Item-Based recommendation system, integrating Exploratory Data Analysis (EDA) and explanatory analysis. Additionally, I built and deployed a machine learning model for prediction.|
+| [NLP Sentiment Analysis][eee]    | NLP Sentiment analysis prediction in Tensorflow, sci-kit learn, experimenting with a custom-designed Gated Recurrent Unit (GRU) neural network to interpret different feelings conveyed in text.|
+| [Algae Classification][aaa]      | Neural network in Tensorflow/Keras to identify algae blooms in water bodies using LSTM/RNNs/CNNs                                 |
+| [Flower Classification][bxs]           | Using tensorflow to create a "deep learning" network (more than 3 layers deep) and  to classify different flower types.                   |
+| [Recommendation System][kag]     | Collaborative filtering techniques used within a Item-Based recommendation system, integrating Exploratory Data Analysis (EDA) and explanatory analysis. Additionally, I built and deployed a machine learning model for prediction.|
 | [LLM Summarizer][aol]            | Leveraging chatgpt prompting for doing technical summaries of news articles web scraped from various news sites where the goal was to make them be explained in more Technical Depth or in a Non technical way, these are sent to Discordbot via Airflow triggers as notifications and text. Then the aricles are displayed on a dashboard |
 | [Disease Prediction][aob]        | Exploratory Data Analysis (EDA) on medical dataset, using machine learning algorithms to engage in predictive modeling for disease detection for possible heart disease                              |
 | [Statistical Methods][cd]        | "Iris" Dataset for statistical analysis, encompassing hypothesis testing and regression modeling, to extract insights from data patterns.                                    |
 | [Data analysis (Covid-19)][ml]   | Investigated and created dashboard of Covid-19 Outbreak (Group project, my part was both doing the plots and parts of the dashboard/design. Which was deployed in Heroku               |
-| [Data analysis (Olympics)][pe]   |  EDA and visualization of historical Olympic data creating interactive dashboards to visualize trends, athlete achievements and so on                                                  |
+| [Data analysis (Olympics)][pe]   |  EDA and visualization of historical Olympic data creating interactive dashboards to visualize trends, athlete achievements.                                                 |
 | [Geometry Shapes Class][aoc]     | Implemented OOP to create geometric objects classes.                                                    |
 
 
