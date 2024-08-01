@@ -1,9 +1,9 @@
 ### Hello there 👋
 
 ![](https://komarev.com/ghpvc/?username=JoelOscarsson&color=0ca4a5)
-* This is mostly my school repo
+* Welcome! This is primary my school repo but some hobby projects can be included here aswell.
 * Software Developer in AI/Machine Learning/Computer Vision based in Gothenburg, Sweden.
-* Likes mathematics, programming and statistics and enjoy board games and fitness during leisure time.
+* Likes mathematics, programming and statistics and enjoy board games, climbing and fitness during leisure time.
 
 ## :briefcase: Github Portfolio:
 
